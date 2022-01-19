@@ -1,6 +1,5 @@
-# titaniumaplus
 
-## Open to Intern Project Requirement
+## Open to Intern Project 
 
 ### Key points
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
